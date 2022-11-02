@@ -1,4 +1,4 @@
-Welcome to amazing Sergey's documentation!
+Welcome to Sergey's amazing documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
